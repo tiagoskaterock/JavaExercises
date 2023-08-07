@@ -3,7 +3,7 @@ package arrays;
 import java.util.Arrays;
 import java.util.Iterator;
 
-public class exercicio {
+public class Exercicio {
 
 	public static void main(String[] args) {
 		
